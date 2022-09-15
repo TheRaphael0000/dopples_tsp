@@ -4,4 +4,7 @@ Solution:
 
 ![dopples_tsp.png](dopples_tsp.png)
 
-Notice that it's faster to haversack from the Sram temple to the -2,0 zaap then go to the huppermage, but i think it's overkill.
+I used the manhattan distance (the way we can move in the game) but without taking into account the "walls" for sake of simplicity.
+For the final solution image I used "Euclidean lines", since it's clearer.
+
+Notice that it's faster to haversack from the Sram temple to the -2,0 zaap then go to the huppermage, but i think it's overkill to render it in the final solution (the one i'll use).
